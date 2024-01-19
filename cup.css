@@ -52,7 +52,7 @@ body{
     left:0;
     left:50%;
     transform: translate(-50%, -50%);
-    top:15px;
+    top:30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 600px;
     line-height: 25px;;
@@ -60,7 +60,7 @@ body{
 
 #cupiframe {
     position: absolute;
-    top:580px;
+    top:620px;
     transform: translate(-50%, -50%);
     border-color: blue;
     border-width: 4px;
